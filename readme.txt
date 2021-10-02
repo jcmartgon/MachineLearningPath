@@ -7,7 +7,7 @@ The goal of this repository is to keep track of all the relevant files correspon
 ## Intended path
 
 Completion Status | Order | Course | Provider | Link
------------------------------------------------------
+------------------|-------|--------|----------|------
 [ ] | 1 | CS50's Introduction to Computer Science | Harvard University | [edx](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 [ ] | 2 | Introduction to Computer Science and Programming Using Python | MIT [edx](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 [ ] | 2 | Logic and Computational Thinking | Microsoft | [edx](https://learning.edx.org/course/course-v1:Microsoft+DEV262x+1T2018a/home=
