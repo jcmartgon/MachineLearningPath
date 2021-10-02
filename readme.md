@@ -9,8 +9,8 @@ The goal of this repository is to keep track of all the relevant files correspon
 Completion Status | Order | Course | Provider | Link
 ------------------|-------|--------|----------|------
 [ ] | 1 | CS50's Introduction to Computer Science | Harvard University | [edx](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-[ ] | 2 | Introduction to Computer Science and Programming Using Python | MIT [edx](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
-[ ] | 2 | Logic and Computational Thinking | Microsoft | [edx](https://learning.edx.org/course/course-v1:Microsoft+DEV262x+1T2018a/home=
+[ ] | 2 | Introduction to Computer Science and Programming Using Python | MIT | [edx](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+[ ] | 2 | Logic and Computational Thinking | Microsoft | [edx](https://learning.edx.org/course/course-v1:Microsoft+DEV262x+1T2018a/home)
 [ ] | 3 | Computing in Python IV: Objects & Algorithms | Georgia Tech | [edx](https://www.edx.org/course/computing-in-python-iv-objects-algorithms)
 [ ] | 4 | Algorithms and Data Structures | Microsoft | [edx](https://www.edx.org/course/computing-in-python-iv-objects-algorithms)
 [ ] | 5 | Data Structures and Algorithms Specialization | UC San Diego | [coursera](https://www.coursera.org/specializations/data-structures-algorithms)
