@@ -2,7 +2,7 @@
 
 ## Description
 
-The goal of this repository is to keep track of all the relevant files corresponding to the several courses I intend on taking to further my understanding on Machine Learning. The path in question was strongly inspired by Ahmad Anis' at https://towardsdatascience.com/beginners-learning-path-for-machine-learning-5a7fb90f751a, although modifications have been made.
+The goal of this repository is to keep track of all the relevant files corresponding to the several courses I intend on taking to further my understanding on Machine Learning. The path in question was strongly inspired by Ahmad Anis' [here](https://towardsdatascience.com/beginners-learning-path-for-machine-learning-5a7fb90f751a), although modifications have been made.
 
 ## Intended path
 
