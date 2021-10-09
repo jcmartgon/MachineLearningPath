@@ -9,7 +9,7 @@ Introduction to the intellectual enterprises of computer science and the art of 
 01. [x] Scratch
 02. [x] C
 03. [x] Arrays
-04. [ ] Algorithms
+04. [x] Algorithms
 05. [ ] Memory
 06. [ ] Data Structures
 07. [ ] Python

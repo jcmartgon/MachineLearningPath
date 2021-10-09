@@ -1,0 +1,31 @@
+Author: Jesus Carlos Martinez Gonzalez
+Date: 07/10/2021
+Objective: Identify from the 3 sorts provided (sort1, sort2 and sort3) which one is which (bubble, merge, selection).
+
+sort1 uses: bubble sort
+
+How do you know?: After merge sort had been identified (see sort2), all that was left was to identify the bubble and selection sorts, these two behave differently at best case scenarios,
+with bubble sort edging out selection; when testing sort1 with the sorted50000.txt dataset, it came in first.
+
+sort2 uses: merge sort
+
+How do you know?: Out of the 3 sorting algorithms, merge sort outperforms the others at worst case scenarios.
+When running the 3 algorithms with the reverse50000.txt file (which has the largest data set, and unorginzed) sort2 comes out ahead by a considerable margin.
+On top of that, at best case scenarios it stands in between the other two algorithms, when testing sort2 with the sorted50000.txt data set, it indeed comes in 2nd.
+
+sort3 uses: selection sort
+
+How do you know?: After merge sort had been identified (see sort2), all that was left was to identify the bubble and selection sorts, these two behave differently at best case scenarios,
+with bubble sort edging out selection; when testing sort3 with the sorted50000.txt dataset, it came in last.
+
+TESTS PERFORMED:
+
+Worst case scenario (reverse5000.txt):
+sort1 reverse50000.txt = 12.001s
+sort2 reverse50000.txt = 3.417s     Merge
+sort3 reverse50000.txt = 8.039s
+
+Best case scenario (sorted5000.txt):
+sort1 sorted50000.txt = 2.489s      Bubble
+sort2 sorted5000.txt = 2.562        Merge 
+sort3 sorted50000.txt = 7.566s      Selection
