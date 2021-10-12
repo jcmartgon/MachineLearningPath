@@ -49,7 +49,7 @@ int main(int argc, char *argv[])
     // Buffer in which samples are being stored
     int16_t samples;
     
-    Modifies each sample by factor and adds it to output
+    // Modifies each sample by factor and adds it to output
     while (fread(&samples, sizeof(int16_t), 1, input))
     {
         samples *= factor;
