@@ -11,7 +11,7 @@ Introduction to the intellectual enterprises of computer science and the art of 
 03. [x] Arrays
 04. [x] Algorithms
 05. [x] Memory
-06. [ ] Data Structures
+06. [x] Data Structures
 07. [ ] Python
 08. [ ] SQL
 09. [ ] HTML, CSS, JavaScript
