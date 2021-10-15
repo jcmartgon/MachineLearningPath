@@ -10,3 +10,7 @@ To run:
 3. Click on File->Load from your computer
 
 ![Screenshot of a baseball player getting ready to swing at a balloon](Images/screenshot.PNG "A baseball player getting ready to swing at a balloon")
+
+## Score
+
+![100/100](Images/score.PNG "100/100")

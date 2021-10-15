@@ -1,6 +1,6 @@
 // Author: Jesus Carlos Martinez Gonzalez
 // Date: 10/10/2021
-// Objective: Recover jpg files from a foresnic image
+// Objective: Recover jpg files from a forensic image
 // Input: Raw file as a command prompt argument
 // Output: Restores the jpg files within the raw file
 

@@ -1,7 +1,7 @@
 // Author: Jesus Carlos Martinez Gonzalez
 // Date: 10/10/2021
 // Objective: Modifies the volume of an audio file
-// Input: Receives from the user the name of a source audio file, that of one to modify and the modifying factor
+// Input: Receives from the user the name of a source audio file, that of an expected output audio file and the modifying factor
 // Output: Creates the modified file
 
 #include <stdint.h>
