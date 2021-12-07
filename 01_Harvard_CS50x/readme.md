@@ -12,8 +12,12 @@ Introduction to the intellectual enterprises of computer science and the art of 
 04. [x] Algorithms
 05. [x] Memory
 06. [x] Data Structures
-07. [ ] Python
-08. [ ] SQL
-09. [ ] HTML, CSS, JavaScript
+07. [x] Python
+08. [x] SQL
+09. [x] HTML, CSS, JavaScript
 10. [ ] Flask
 11. [ ] Ethics
+
+## Current progress
+
+![66/100](Images/progress.PNG "66/100")
